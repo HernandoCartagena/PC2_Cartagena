@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "840630906309",
+    "project_id": "pc2cartagena",
+    "storage_bucket": "pc2cartagena.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:840630906309:android:7a3adfe459bd1e3ef82fac",
+        "android_client_info": {
+          "package_name": "dev.hcartagena.pc2_cartagena"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "840630906309-8dl9e407c6lr14gm6406dlchih2hqlm3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCe4AY1WA52R8-qvAX3t5WPr5DTpQ_RaNA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "840630906309-8dl9e407c6lr14gm6406dlchih2hqlm3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

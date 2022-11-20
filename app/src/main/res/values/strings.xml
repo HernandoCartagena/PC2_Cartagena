@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">PC2_Cartagena</string>
+    <string name="valtxemail">Ingrese su email</string>
+    <string name="valtxtadd">Crear una cuenta</string>
+    <string name="valtxtpassword">Ingrese su clave</string>
+    <string name="btnLogin">Ingresar</string>
+    <string name="valttitleuser">Crear uan cuenta</string>
+    <string name="valttxtemail">Ingrese email</string>
+    <string name="btnSaveUser">Registrar una cuenta</string>
+    <string name="valtxtnombre">Ingrese su Nombre</string>
+    <string name="valtxtvalpassword">Ingrese su clave</string>
+    <string name="valtxtverificarpass">Ingrese nuevamente password</string>
+    <string name="valtxtiniciar">Iniciar Sesion</string>
+</resources>
